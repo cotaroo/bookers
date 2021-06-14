@@ -33,3 +33,7 @@ p, ol, ul, td {
 a {
   color: #000;
 }
+
+div.field, div.actions {
+  margin-bottom: 10px;
+}
